@@ -11,7 +11,7 @@ hergebruik van bestaande open-source componenten en courante IIIF-technologie.
 Hier volgt een oplijsting van de gebruikte componenten, met een korte
 toelichting:
 
-* [Inuits DAMS](https://gitlab.com/inuits/dams)
+* [elody](https://github.com/search?q=org%3Ainuits+elody&type=repositories)
 
     *Aaneenschakeling van microservices die in zijn geheel een DAMS (Digital
     Assets Management System) vormen.*
@@ -49,7 +49,7 @@ toelichting:
 
 ## Aanvullingen bij software componenten
 
-### [Inuits DAMS](https://gitlab.com/inuits/dams)
+### [elody](https://github.com/search?q=org%3Ainuits+elody&type=repositories)
 
 Deze component biedt al veel van de gewenste functionaliteiten aan. Enkele
 functionaliteiten worden echter nog verder ontwikkeld voor dit project. Dit
@@ -102,8 +102,8 @@ beschikking; via OAI-PMH, via een REST-API, via een IIIF-collectie,
 datadumps... Er wordt een component gebouwd, met aan de basis
 [pyoai](https://github.com/infrae/pyoai) voor het ophalen van manifesten.
 Deze manifesten worden bijgehouden in
-[Inuits DAMS](https://gitlab.com/inuits/dams/), meer specifiek in de
-[collection-api](https://gitlab.com/inuits/dams/dams-collection-api)
+[Inuits DAMS](https://github.com/search?q=org%3Ainuits+elody&type=repositories), meer specifiek in de
+[collection-api](https://github.com/inuits/elody-collection)
 microservice. Dit om de geavanceerde zoekfaciliteiten van Inuits DAMS toe te
 laten, en om een snelle bevraging te garanderen. Als er bijwerkingen worden
 uitgevoerd van de manifesten bij de partners, worden deze ook gereflecteerd
